@@ -15,3 +15,4 @@ https://ruby-doc.org/core-3.0.1/Module.html#method-i-included
 
 Youtube:
 https://www.youtube.com.br/@puts_dev
+ - mágica: https://youtu.be/NQ1-2QeQ6Gg
