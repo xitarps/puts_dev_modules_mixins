@@ -1,3 +1,4 @@
+require_relative 'commom'
 require_relative 'car'
 
 class App
